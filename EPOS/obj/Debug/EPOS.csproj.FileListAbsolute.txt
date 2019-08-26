@@ -11,3 +11,16 @@ E:\EPOS\obj\Debug\EPOS.pdb
 E:\EPOS\obj\Debug\EPOS.Forms.Home.resources
 E:\EPOS\obj\Debug\EPOS.UserControls.Dashboard.resources
 E:\EPOS\obj\Debug\EPOS.UserControls.UC_Sales.resources
+E:\EPOS-Project\EPOS\bin\Debug\EPOS.exe.config
+E:\EPOS-Project\EPOS\bin\Debug\EPOS.exe
+E:\EPOS-Project\EPOS\bin\Debug\EPOS.pdb
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.csprojAssemblyReference.cache
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.Forms.Home.resources
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.Home.resources
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.Properties.Resources.resources
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.UserControls.Dashboard.resources
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.UserControls.UC_Sales.resources
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.csproj.GenerateResource.cache
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.csproj.CoreCompileInputs.cache
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.exe
+E:\EPOS-Project\EPOS\obj\Debug\EPOS.pdb
